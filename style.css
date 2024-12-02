@@ -32,3 +32,19 @@ button:hover {
     background-color: #218838;
 }
 
+select, input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+header {
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
