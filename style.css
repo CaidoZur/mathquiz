@@ -47,4 +47,11 @@ header {
     text-align: center;
 }
 
+.questions {
+    margin-bottom: 20px;
+}
+
+.question {
+    margin-bottom: 15px;
+}
 
